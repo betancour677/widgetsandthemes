@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_primary">#2196F3</color>
+    <color name="blue_primary_dark">#1976D2</color>
+    <color name="blue_accent">#FF4081</color>
+    <color name="blue_text">#FFFFFF</color>
+    <color name="blue_button_background_color">#2196F3</color>
+    <color name="background_blue">#8EC1EA</color>
+    <color name="green_primary">#4CAF50</color>
+    <color name="green_primary_dark">#388E3C</color>
+    <color name="green_accent">#C6FF00</color>
+    <color name="green_text">#FFC400</color>
+    <color name="green_button_background_color">#00E676</color>
+    <color name="background">#D8FAB5</color>
+
+</resources>
+
+
